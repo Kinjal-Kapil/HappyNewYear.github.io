@@ -12,6 +12,7 @@ let rotatetext2 = document.getElementById("rotatetext2");
 let lang = document.getElementById("lang");
 console.log(logo2);
 
+
 function timer() {
     let date = new Date();
     let h = date.getHours();
